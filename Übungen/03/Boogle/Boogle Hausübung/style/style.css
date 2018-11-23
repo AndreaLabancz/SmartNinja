@@ -1,0 +1,59 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+    }
+.logo {
+  display: block;
+  margin: 20px auto auto auto;
+}
+
+#title{
+  font-size: 50px;
+  color: #636363;
+  margin: 0px auto 25px auto;
+}
+
+#subtitle{
+  font-size: 20px;
+  color: #636363;
+}
+
+#avatar {
+  width: 120px;
+  padding: 50px 50px 20px 50px
+}
+
+#sign-in {
+  background-color: #edeeef;
+  width: 450px;
+  height: 400px;
+  display: block;
+  margin: auto auto 10px auto;
+  box-shadow: 0 8px 6px -6px #636363;
+  }
+
+button {
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 8px;
+    background-color: #4286f4;
+    color: white;
+    font-size: 18px;
+}
+
+input[type=text],
+input[type=password] {
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: 15px;
+    box-shadow: 0.5px 1px #cccccc inset;
+    border-radius: 8px;
+}
+
+a:link {
+    text-decoration: none;
+}

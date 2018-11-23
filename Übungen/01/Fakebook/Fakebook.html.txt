@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Andrea Labancz | Fakebook</title>
+</head>
+
+<body>
+  <h1><em>FAKEBOOK</em></h1>
+  Search: <input type="text" placeholder="Search by name">
+  <h2><strong>Andrea Labancz</strong></h2>
+</body>
+</html>

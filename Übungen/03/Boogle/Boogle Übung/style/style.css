@@ -1,0 +1,23 @@
+header {
+  height: 50px;
+  float: right;
+  padding: 10px;
+}
+
+.headerbuttons {
+  margin: 15px;
+}
+
+#main {
+  width: 40%;
+  margin: 0 auto;
+}
+
+#logo {
+  margin-top: 200px;
+}
+
+#search {
+
+   margin: 0 auto;
+ }
